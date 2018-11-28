@@ -139,12 +139,10 @@ input[type=search]:focus {
 ul {
     display: flex;
     justify-content: space-around;
-    padding-top: 2.5rem;
-
+    padding-top: 5rem;
     li {
         width: 33.33%;
     }
-
     div {
         position: relative;
         float: left;

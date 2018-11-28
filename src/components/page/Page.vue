@@ -29,9 +29,4 @@ export default {
 }
 </script>
 
-<style lang="less">
-    .page-view {
-    }
-</style>
-
 
